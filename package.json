@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "npm install",
+    "test" : "node test",
+    "run" : "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuladeep68/NodeJs_Training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuladeep68/NodeJs_Training/issues"
+  },
+  "homepage": "https://github.com/kuladeep68/NodeJs_Training#readme"
+}
